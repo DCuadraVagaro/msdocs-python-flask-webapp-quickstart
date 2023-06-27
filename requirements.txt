@@ -3,3 +3,4 @@ gunicorn
 gpt_index
 gradio
 pandas
+langchain
