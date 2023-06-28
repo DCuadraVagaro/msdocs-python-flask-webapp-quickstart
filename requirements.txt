@@ -1,6 +1,6 @@
 Flask==2.0.2
 gunicorn
-gpt_index
+langchain==0.0.148
 gradio
 pandas
-langchain
+gpt_index==0.4.24
